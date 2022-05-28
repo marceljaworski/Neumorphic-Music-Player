@@ -60,9 +60,8 @@ main {
 img {
     width: 70%;
     object-fit: cover;
-    aspect-ratio: 1;
+    aspect-ratio: 1 !important;
     border-radius: 169px;
-    
     box-shadow:  -4px 4px 8px #696969,
                  4px -4px 8px #f5f5f5;
 }
